@@ -1,4 +1,4 @@
-// Toggle menu untuk tampilan mobile
+// tmpilan di hp
 const menuToggle = document.getElementById('menu-toggle');
 const navLinks = document.querySelector('.nav-links');
 
