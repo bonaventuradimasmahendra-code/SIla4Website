@@ -49,7 +49,6 @@ body {
     cursor: pointer;
 }
 
-/* Hero Section */
 .hero {
     text-align: center;
     padding: 60px 20px;
@@ -61,7 +60,6 @@ body {
     margin-bottom: 10px;
 }
 
-/* Content */
 .content {
     max-width: 900px;
     margin: 30px auto;
@@ -80,7 +78,6 @@ body {
     margin-left: 20px;
 }
 
-/* News Cards */
 .news-card {
     margin-bottom: 25px;
     padding: 15px;
@@ -89,7 +86,6 @@ body {
     border-radius: 8px;
 }
 
-/* Footer */
 footer {
     text-align: center;
     background-color: #c62828;
@@ -98,7 +94,6 @@ footer {
     margin-top: 30px;
 }
 
-/* Responsive */
 @media (max-width: 768px) {
     .nav-links {
         display: none;
